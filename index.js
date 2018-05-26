@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 const app = "I don't do much.";
 
+=======
+>>>>>>> 71edb03f49e8516cfc09d5ebcbc5ebd2b8b4bc77
 var kittens = [
   'Milo', 
   'Otis', 
   'Garfield'
   ];
   
+<<<<<<< HEAD
  function destructivelyAppendKitten(name) {
   kittens.push(name);
   return kittens;
@@ -60,3 +64,6 @@ function removeFirstKitten() {
   
   
   
+=======
+  kittens.appendKitten('Hero');
+>>>>>>> 71edb03f49e8516cfc09d5ebcbc5ebd2b8b4bc77
